@@ -1,0 +1,25 @@
+{
+  "tracked_problems": [
+    {
+      "problem_identification": {
+        "name": "Problem: Contains Duplicate",
+        "number": "XXX",
+        "url": "https://leetcode.com/problems/contains-duplicate/"
+      },
+      "submission_timestamp": "2025-09-16T11:16:25.005404",
+      "performance_metrics": {
+        "runtime_ms": null,
+        "runtime_percentile": null,
+        "memory_mb": null,
+        "memory_percentile": null
+      },
+      "algorithm_complexity": "Time: O(n), Space: O(n)",
+      "metadata": {
+        "difficulty": "Unknown",
+        "category": "Arrays & Hashing",
+        "notes": "Tracked on 2025-09-16 11:16:25"
+      },
+      "username": "test_user"
+    }
+  ]
+}
