@@ -8,7 +8,7 @@ CodingTest/
 │   └── settings.local.json
 ├── .mcp.json
 ├── CLAUDE.MD
-├── README.md
+├── README.md 
 └── basics/
     ├── 1d-dynamic-programming/
     ├── 2d-dynamic-programming/
@@ -30,4 +30,5 @@ CodingTest/
     └── two-pointers/
 ```
 
-This is a coding practice repository organized by algorithm and data structure categories.
+## Git Flow
+- Get 
